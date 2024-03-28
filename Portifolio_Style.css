@@ -1,0 +1,24 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+body{
+    background-image: url(Construcao.jpg);
+    background-size:100%;
+}
+.conteudo{
+    text-align: center;
+    margin-top: 200px;
+
+}
+footer {
+    text-align: center;
+    margin-top: 280px;
+}
+#contador {
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size:350%;
+}
